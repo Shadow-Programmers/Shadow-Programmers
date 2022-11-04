@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shadow-Programmers
+- 👀 I’m interested in Coding and programming
+- 🌱 I’m currently learning Python and MySQL
+- 💞️ I’m looking to collaborate on nothing now
+- 📫 How to reach me @GauravJyala on Telegram
